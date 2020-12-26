@@ -6,4 +6,4 @@ OpenCV, Numpy, and CVXPY were all used to replicate the algorithm. The results c
 
 ![](vid_stabile.gif)
 
-Code is available upon request.
+Due to honor code policy I have a private repo for this program which is available upon request.
